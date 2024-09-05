@@ -3,13 +3,13 @@ import { initializeApp } from "firebase/app";
 import { getAnalytics } from "firebase/analytics";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBTtYrrZV9yo-54UlxBwW3-d7y_MLwSxn4",
-  authDomain: "iboss-task.firebaseapp.com",
-  projectId: "iboss-task",
-  storageBucket: "iboss-task.appspot.com",
-  messagingSenderId: "674686453721",
-  appId: "1:674686453721:web:d40aba407b1d607f8b7bc8",
-  measurementId: "G-45FY91PJVW"
+  apiKey: import.meta.env.VITE_apiKey,
+  authDomain: import.meta.env.VITE_authDomain,
+  projectId: import.meta.env.VITE_projectId,
+  storageBucket: import.meta.env.VITE_storageBucket,
+  messagingSenderId: import.meta.env.VITE_messagingSenderId,
+  appId: import.meta.env.VITE_appId,
+  measurementId: import.meta.env.VITE_measurementId,
 };
 
 // Initialize Firebase

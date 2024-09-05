@@ -19,7 +19,7 @@ const GoogleLogin = () => {
             <div className="flex justify-center">
                 <div className="border-2 rounded p-2">
                     <button onClick={handleGoogleSignIn} className="flex items-center gap-2">
-                    <FcGoogle /> Sign in with Google
+                    <FcGoogle className='text-2xl'/> <span className='text-sm'>Sign in with Google</span>
                     </button>
                 </div>
             </div>
