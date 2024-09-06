@@ -12,14 +12,13 @@ export const CartProvider = ({ children }) => {
     return storedCartItems ? JSON.parse(storedCartItems) : [];
   });
 
-  // Save cart items to localStorage whenever the cart changes
+  // Save cart items to localStorage 
   useEffect(() => {
-    console.log("Saving cart items to localStorage:", cartItems); // Debugging log
     localStorage.setItem("cartItems", JSON.stringify(cartItems));
   }, [cartItems]);
 
   const addToCart = (product) => {
-    console.log("Adding to cart:", product); // Debugging log
+
     const existingItem = cartItems.find((item) => item.id === product.id);
     if (existingItem) {
       setCartItems((prevItems) =>
@@ -33,12 +32,11 @@ export const CartProvider = ({ children }) => {
   };
 
   const removeFromCart = (productId) => {
-    console.log("Removing from cart:", productId); // Debugging log
+
     setCartItems((prevItems) => prevItems.filter((item) => item.id !== productId));
   };
 
   const updateCartItemQuantity = (productId, newQuantity) => {
-    console.log("Updating cart item quantity:", productId, newQuantity); // Debugging log
     setCartItems((prevItems) =>
       prevItems.map((item) =>
         item.id === productId ? { ...item, quantity: newQuantity } : item

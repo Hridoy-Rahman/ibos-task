@@ -9,7 +9,7 @@ import AppleLogin from "../Components/AppleLogin";
 const Login = () => {
   const navigate = useNavigate();
   const location = useLocation();
-  const from = location.state?.from?.pathname || "/";
+  const from = location.state?.from?.pathname || "/products"; // Default redirect path to products page
 
   const [passwordVisible, setPasswordVisible] = useState(false);
   const [error, setError] = useState("");
@@ -29,16 +29,12 @@ const Login = () => {
     login(email, password)
       .then((result) => {
         const user = result.user;
-        console.log(user);
-        if (location.state && location.state.from) {
-          navigate(from, { replace: true });
-        } else {
-          navigate("/");
-        }
+
+        // Redirect to the intended page or products page
+        navigate(from, { replace: true }); 
       })
       .catch((error) => {
-        console.log(error);
-        setError("Incorrect email or password");
+        setError("Incorrect email or password. Please try again.");
       });
   };
 
@@ -115,7 +111,7 @@ const Login = () => {
             </div>
 
             <button
-              className="bg-black py-3 text-lg text-white font-semibold rounded-lg "
+              className="bg-black py-3 text-lg text-white font-semibold rounded-lg"
               type="submit"
             >
               Sign In
@@ -134,11 +130,8 @@ const Login = () => {
           </div>
           {/* Signup Link and Google Login */}
           <p className="text-center my-4">
-            Have an account?{" "}
-            <Link
-              className="text-[#0F3DDE] font-semibold"
-              to="/signup"
-            >
+            Don’t have an account?{" "}
+            <Link className="text-[#0F3DDE] font-semibold" to="/signup">
               Sign Up
             </Link>
           </p>
