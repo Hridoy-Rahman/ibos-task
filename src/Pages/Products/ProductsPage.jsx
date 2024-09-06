@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from "react";
 import axios from "axios";
 import ProductCard from "./ProductCard";
+import Pagination from "../../Components/Pagination";
 
 const categories = ["Rocking Chair", "Side Chair", "Lounge Chair"];
 const PRODUCTS_PER_PAGE = 6;
@@ -77,6 +78,12 @@ const ProductsPage = () => {
             ))}
           </div>
 
+          {/* Pagination Controls */}
+          <Pagination
+            currentPage={currentPage}
+            totalPages={totalPages}
+            onPageChange={handlePageChange}
+          />
         </div>
       </div>
     </div>
