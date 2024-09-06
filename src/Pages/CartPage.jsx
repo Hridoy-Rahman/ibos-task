@@ -22,8 +22,8 @@ const CartPage = () => {
   const total = subtotal + SHIPPING_COST + estimatedTax;
 
   return (
-    <div className="container mx-auto px-4 py-8">
-      <div className="flex flex-col lg:flex-row gap-12">
+    <div className="container  px-14 py-8">
+      <div className="flex flex-col lg:flex-row gap-8">
         {/* Cart Items on the Left */}
         <div className="w-full lg:w-3/4">
           <h1 className="text-3xl font-semibold mb-6">An overview of your order</h1>
@@ -96,7 +96,7 @@ const CartPage = () => {
 
         {/* Order Summary on the Right */}
         <div className="w-full lg:w-1/4">
-          <h2 className="text-3xl font-semibold mb-8">Order Details</h2>
+          <h2 className="text-xl font-semibold mb-8">Order Details</h2>
           <div className="w-full bg-gray-50 border p-4 rounded-lg shadow">
             <div className="flex justify-between mb-2">
               <span>Subtotal</span>

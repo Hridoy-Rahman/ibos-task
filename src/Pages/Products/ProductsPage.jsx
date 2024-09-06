@@ -40,7 +40,7 @@ const ProductsPage = () => {
   };
 
   return (
-    <div className="container mx-10 px-4 py-8">
+    <div className="container px-14 py-8">
       <div className="flex">
         {/* Left Sidebar */}
         <div className="w-1/4 pr-4 border-r-2 border-gray-300 mr-5">
