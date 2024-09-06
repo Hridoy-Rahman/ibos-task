@@ -85,7 +85,7 @@ const Navbar = () => {
 
   return (
     <div className="sticky top-0 mb-8">
-      <div className="container mx-auto flex justify-between items-center px-4 py-2">
+      <div className="container mx-auto flex justify-between items-center px-4 py-2 mb-4">
         {/* Logo */}
         <div className="flex items-center">
           <div className="bg-[#1E99F5] rounded-full p-2">
