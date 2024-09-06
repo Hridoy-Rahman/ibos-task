@@ -7,7 +7,7 @@ import { LiaFlagUsaSolid } from "react-icons/lia";
 
 const Footer = () => {
   return (
-    <footer className="bg-black text-white px-4 py-8 mx-auto">
+    <footer className="bg-black text-white px-4 py-8 mx-auto mt-10">
       <div className="flex flex-wrap justify-between items-start">
         
         <div className="flex items-center mb-6">

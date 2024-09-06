@@ -2,11 +2,13 @@ import React, { useState, useContext } from "react";
 import { NavLink, Link } from "react-router-dom"; 
 import { AuthContext } from "../Provider/AuthProvider";
 import { IoBagOutline } from "react-icons/io5";
+import { useCart } from "../Provider/CartProvider";
 
 const Navbar = () => {
   const { user, logOut } = useContext(AuthContext);
   const [showLogout, setShowLogout] = useState(false); 
-  const cartItemCount = 0;
+  const { cartItems } = useCart();
+
 
   const handleLogout = () => {
     logOut()
@@ -84,7 +86,7 @@ const Navbar = () => {
   );
 
   return (
-    <div className="sticky top-0 mb-8">
+    <div className="sticky top-0 bg-white mb-8">
       <div className="container mx-auto flex justify-between items-center px-4 py-2 mb-4">
         {/* Logo */}
         <div className="flex items-center">
@@ -105,13 +107,13 @@ const Navbar = () => {
         <div className="flex items-center space-x-6">
           {/* Cart Icon with Badge */}
           <Link to="/cart" className="relative font-semibold hover:text-gray-500">
-            <IoBagOutline size={24} />
-            
-              <span className="absolute -bottom-1 -right-2 bg-black text-white text-xs rounded-full px-1.5">
-                {cartItemCount}
-              </span>
-        
-          </Link>
+          <IoBagOutline size={24} />
+          {cartItems.length > 0 && ( // Show badge only if cart is not empty
+            <span className="absolute -bottom-1 -right-2 bg-black text-white text-xs rounded-full px-1.5">
+              {cartItems.length}
+            </span>
+          )}
+        </Link>
 
           {/* User Profile */}
           {user?.email ? (

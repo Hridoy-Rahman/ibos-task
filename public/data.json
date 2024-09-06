@@ -130,17 +130,167 @@
     "image": "/image 149.png"
   },
   {
-    "id": 1,
-    "name": "Ergonomic Office Chair",
-    "regularPrice": 150.00,
-    "offerPrice": 120.00,
-    "offerPercentage": 20,
-    "description": "This ergonomic office chair provides lumbar support and adjustable height. Ideal for long hours of work.",
-    "category": "Side Chair",
-    "image": "/image 146.png"
+    "id": 14,
+    "name": "Outdoor Patio Chair",
+    "regularPrice": 90.00,
+    "offerPrice": 75.00,
+    "offerPercentage": 17,
+    "description": "Weather-resistant outdoor patio chair made from durable plastic. Stackable design for easy storage.",
+    "category": "Rocking Chair",
+    "image": "/image 147.png"
   },
   {
-    "id": 2,
+    "id": 15,
+    "name": "Kids Study Chair",
+    "regularPrice": 60.00,
+    "offerPrice": 50.00,
+    "offerPercentage": 17,
+    "description": "Colorful and adjustable study chair for kids with a comfortable cushion and back support, designed for study desks.",
+    "category": "Rocking Chair",
+    "image": "/image 149.png"
+  },
+  {
+    "id": 16,
+    "name": "Outdoor Patio Chair",
+    "regularPrice": 90.00,
+    "offerPrice": 75.00,
+    "offerPercentage": 17,
+    "description": "Weather-resistant outdoor patio chair made from durable plastic. Stackable design for easy storage.",
+    "category": "Rocking Chair",
+    "image": "/image 147.png"
+  },
+  {
+    "id": 17,
+    "name": "Kids Study Chair",
+    "regularPrice": 60.00,
+    "offerPrice": 50.00,
+    "offerPercentage": 17,
+    "description": "Colorful and adjustable study chair for kids with a comfortable cushion and back support, designed for study desks.",
+    "category": "Rocking Chair",
+    "image": "/image 149.png"
+  },
+  {
+    "id": 18,
+    "name": "Outdoor Patio Chair",
+    "regularPrice": 90.00,
+    "offerPrice": 75.00,
+    "offerPercentage": 17,
+    "description": "Weather-resistant outdoor patio chair made from durable plastic. Stackable design for easy storage.",
+    "category": "Rocking Chair",
+    "image": "/image 147.png"
+  },
+  {
+    "id": 19,
+    "name": "Kids Study Chair",
+    "regularPrice": 60.00,
+    "offerPrice": 50.00,
+    "offerPercentage": 17,
+    "description": "Colorful and adjustable study chair for kids with a comfortable cushion and back support, designed for study desks.",
+    "category": "Rocking Chair",
+    "image": "/image 149.png"
+  },
+  {
+    "id": 20,
+    "name": "Outdoor Patio Chair",
+    "regularPrice": 90.00,
+    "offerPrice": 75.00,
+    "offerPercentage": 17,
+    "description": "Weather-resistant outdoor patio chair made from durable plastic. Stackable design for easy storage.",
+    "category": "Rocking Chair",
+    "image": "/image 147.png"
+  },
+  {
+    "id": 21,
+    "name": "Kids Study Chair",
+    "regularPrice": 60.00,
+    "offerPrice": 50.00,
+    "offerPercentage": 17,
+    "description": "Colorful and adjustable study chair for kids with a comfortable cushion and back support, designed for study desks.",
+    "category": "Rocking Chair",
+    "image": "/image 149.png"
+  },
+  {
+    "id": 22,
+    "name": "Outdoor Patio Chair",
+    "regularPrice": 90.00,
+    "offerPrice": 75.00,
+    "offerPercentage": 17,
+    "description": "Weather-resistant outdoor patio chair made from durable plastic. Stackable design for easy storage.",
+    "category": "Rocking Chair",
+    "image": "/image 147.png"
+  },
+  {
+    "id": 23,
+    "name": "Kids Study Chair",
+    "regularPrice": 60.00,
+    "offerPrice": 50.00,
+    "offerPercentage": 17,
+    "description": "Colorful and adjustable study chair for kids with a comfortable cushion and back support, designed for study desks.",
+    "category": "Rocking Chair",
+    "image": "/image 149.png"
+  },
+  {
+    "id": 24,
+    "name": "Outdoor Patio Chair",
+    "regularPrice": 90.00,
+    "offerPrice": 75.00,
+    "offerPercentage": 17,
+    "description": "Weather-resistant outdoor patio chair made from durable plastic. Stackable design for easy storage.",
+    "category": "Rocking Chair",
+    "image": "/image 147.png"
+  },
+  {
+    "id": 25,
+    "name": "Kids Study Chair",
+    "regularPrice": 60.00,
+    "offerPrice": 50.00,
+    "offerPercentage": 17,
+    "description": "Colorful and adjustable study chair for kids with a comfortable cushion and back support, designed for study desks.",
+    "category": "Rocking Chair",
+    "image": "/image 149.png"
+  },
+  {
+    "id": 26,
+    "name": "Outdoor Patio Chair",
+    "regularPrice": 90.00,
+    "offerPrice": 75.00,
+    "offerPercentage": 17,
+    "description": "Weather-resistant outdoor patio chair made from durable plastic. Stackable design for easy storage.",
+    "category": "Rocking Chair",
+    "image": "/image 147.png"
+  },
+  {
+    "id": 27,
+    "name": "Kids Study Chair",
+    "regularPrice": 60.00,
+    "offerPrice": 50.00,
+    "offerPercentage": 17,
+    "description": "Colorful and adjustable study chair for kids with a comfortable cushion and back support, designed for study desks.",
+    "category": "Rocking Chair",
+    "image": "/image 149.png"
+  },
+  {
+    "id": 28,
+    "name": "Outdoor Patio Chair",
+    "regularPrice": 90.00,
+    "offerPrice": 75.00,
+    "offerPercentage": 17,
+    "description": "Weather-resistant outdoor patio chair made from durable plastic. Stackable design for easy storage.",
+    "category": "Rocking Chair",
+    "image": "/image 147.png"
+  },
+  {
+    "id": 29,
+    "name": "Kids Study Chair",
+    "regularPrice": 60.00,
+    "offerPrice": 50.00,
+    "offerPercentage": 17,
+    "description": "Colorful and adjustable study chair for kids with a comfortable cushion and back support, designed for study desks.",
+    "category": "Rocking Chair",
+    "image": "/image 149.png"
+  },
+  {
+    "id": 30,
     "name": "Modern Lounge Chair",
     "regularPrice": 200.00,
     "offerPrice": 160.00,
@@ -150,7 +300,7 @@
     "image": "/image 147.png"
   },
   {
-    "id": 3,
+    "id": 31,
     "name": "Leather Executive Chair",
     "regularPrice": 300.00,
     "offerPrice": 240.00,
@@ -160,117 +310,7 @@
     "image": "/image.png"
   },
   {
-    "id": 4,
-    "name": "Mesh Back Task Chair",
-    "regularPrice": 100.00,
-    "offerPrice": 85.00,
-    "offerPercentage": 15,
-    "description": "Mesh back task chair with adjustable lumbar support and a breathable design for enhanced comfort during work.",
-    "category": "Rocking Chair",
-    "image": "/recline chair.png"
-  },
-  {
-    "id": 5,
-    "name": "Accent Armchair",
-    "regularPrice": 180.00,
-    "offerPrice": 144.00,
-    "offerPercentage": 20,
-    "description": "Stylish accent armchair with a sturdy wooden frame and comfortable fabric upholstery, perfect for any room decor.",
-    "category": "Rocking Chair",
-    "image": "/image 148.png"
-  },
-  {
-    "id": 6,
-    "name": "Recliner Chair",
-    "regularPrice": 350.00,
-    "offerPrice": 280.00,
-    "offerPercentage": 20,
-    "description": "Comfortable recliner chair with a manual lever, padded seat, and backrest for maximum relaxation at home.",
-    "category": "Lounge Chair",
-    "image": "/image 149.png"
-  },
-  {
-    "id": 7,
-    "name": "Dining Chair Set of 4",
-    "regularPrice": 250.00,
-    "offerPrice": 200.00,
-    "offerPercentage": 20,
-    "description": "Set of 4 modern dining chairs with upholstered seats and wooden legs. Durable and easy to clean.",
-    "category": "Rocking Chair",
-    "image": "/image.png"
-  },
-  {
-    "id": 8,
-    "name": "Swivel Bar Stool",
-    "regularPrice": 120.00,
-    "offerPrice": 100.00,
-    "offerPercentage": 17,
-    "description": "Adjustable height swivel bar stool with a footrest and cushioned seat. Great for kitchen counters or home bars.",
-    "category": "Side Chair",
-    "image": "/image 146.png"
-  },
-  {
-    "id": 9,
-    "name": "Outdoor Patio Chair",
-    "regularPrice": 90.00,
-    "offerPrice": 75.00,
-    "offerPercentage": 17,
-    "description": "Weather-resistant outdoor patio chair made from durable plastic. Stackable design for easy storage.",
-    "category": "Rocking Chair",
-    "image": "/image 147.png"
-  },
-  {
-    "id": 10,
-    "name": "Kids Study Chair",
-    "regularPrice": 60.00,
-    "offerPrice": 50.00,
-    "offerPercentage": 17,
-    "description": "Colorful and adjustable study chair for kids with a comfortable cushion and back support, designed for study desks.",
-    "category": "Rocking Chair",
-    "image": "/image 149.png"
-  },
-  {
-    "id": 11,
-    "name": "Swivel Bar Stool",
-    "regularPrice": 120.00,
-    "offerPrice": 100.00,
-    "offerPercentage": 17,
-    "description": "Adjustable height swivel bar stool with a footrest and cushioned seat. Great for kitchen counters or home bars.",
-    "category": "Side Chair",
-    "image": "/image 146.png"
-  },
-  {
-    "id": 12,
-    "name": "Outdoor Patio Chair",
-    "regularPrice": 90.00,
-    "offerPrice": 75.00,
-    "offerPercentage": 17,
-    "description": "Weather-resistant outdoor patio chair made from durable plastic. Stackable design for easy storage.",
-    "category": "Rocking Chair",
-    "image": "/image 147.png"
-  },
-  {
-    "id": 13,
-    "name": "Kids Study Chair",
-    "regularPrice": 60.00,
-    "offerPrice": 50.00,
-    "offerPercentage": 17,
-    "description": "Colorful and adjustable study chair for kids with a comfortable cushion and back support, designed for study desks.",
-    "category": "Rocking Chair",
-    "image": "/image 149.png"
-  },
-  {
-    "id": 1,
-    "name": "Ergonomic Office Chair",
-    "regularPrice": 150.00,
-    "offerPrice": 120.00,
-    "offerPercentage": 20,
-    "description": "This ergonomic office chair provides lumbar support and adjustable height. Ideal for long hours of work.",
-    "category": "Side Chair",
-    "image": "/image 146.png"
-  },
-  {
-    "id": 2,
+    "id": 32,
     "name": "Modern Lounge Chair",
     "regularPrice": 200.00,
     "offerPrice": 160.00,
@@ -280,7 +320,7 @@
     "image": "/image 147.png"
   },
   {
-    "id": 3,
+    "id": 33,
     "name": "Leather Executive Chair",
     "regularPrice": 300.00,
     "offerPrice": 240.00,
@@ -290,117 +330,7 @@
     "image": "/image.png"
   },
   {
-    "id": 4,
-    "name": "Mesh Back Task Chair",
-    "regularPrice": 100.00,
-    "offerPrice": 85.00,
-    "offerPercentage": 15,
-    "description": "Mesh back task chair with adjustable lumbar support and a breathable design for enhanced comfort during work.",
-    "category": "Rocking Chair",
-    "image": "/recline chair.png"
-  },
-  {
-    "id": 5,
-    "name": "Accent Armchair",
-    "regularPrice": 180.00,
-    "offerPrice": 144.00,
-    "offerPercentage": 20,
-    "description": "Stylish accent armchair with a sturdy wooden frame and comfortable fabric upholstery, perfect for any room decor.",
-    "category": "Rocking Chair",
-    "image": "/image 148.png"
-  },
-  {
-    "id": 6,
-    "name": "Recliner Chair",
-    "regularPrice": 350.00,
-    "offerPrice": 280.00,
-    "offerPercentage": 20,
-    "description": "Comfortable recliner chair with a manual lever, padded seat, and backrest for maximum relaxation at home.",
-    "category": "Lounge Chair",
-    "image": "/image 149.png"
-  },
-  {
-    "id": 7,
-    "name": "Dining Chair Set of 4",
-    "regularPrice": 250.00,
-    "offerPrice": 200.00,
-    "offerPercentage": 20,
-    "description": "Set of 4 modern dining chairs with upholstered seats and wooden legs. Durable and easy to clean.",
-    "category": "Rocking Chair",
-    "image": "/image.png"
-  },
-  {
-    "id": 8,
-    "name": "Swivel Bar Stool",
-    "regularPrice": 120.00,
-    "offerPrice": 100.00,
-    "offerPercentage": 17,
-    "description": "Adjustable height swivel bar stool with a footrest and cushioned seat. Great for kitchen counters or home bars.",
-    "category": "Side Chair",
-    "image": "/image 146.png"
-  },
-  {
-    "id": 9,
-    "name": "Outdoor Patio Chair",
-    "regularPrice": 90.00,
-    "offerPrice": 75.00,
-    "offerPercentage": 17,
-    "description": "Weather-resistant outdoor patio chair made from durable plastic. Stackable design for easy storage.",
-    "category": "Rocking Chair",
-    "image": "/image 147.png"
-  },
-  {
-    "id": 10,
-    "name": "Kids Study Chair",
-    "regularPrice": 60.00,
-    "offerPrice": 50.00,
-    "offerPercentage": 17,
-    "description": "Colorful and adjustable study chair for kids with a comfortable cushion and back support, designed for study desks.",
-    "category": "Rocking Chair",
-    "image": "/image 149.png"
-  },
-  {
-    "id": 11,
-    "name": "Swivel Bar Stool",
-    "regularPrice": 120.00,
-    "offerPrice": 100.00,
-    "offerPercentage": 17,
-    "description": "Adjustable height swivel bar stool with a footrest and cushioned seat. Great for kitchen counters or home bars.",
-    "category": "Side Chair",
-    "image": "/image 146.png"
-  },
-  {
-    "id": 12,
-    "name": "Outdoor Patio Chair",
-    "regularPrice": 90.00,
-    "offerPrice": 75.00,
-    "offerPercentage": 17,
-    "description": "Weather-resistant outdoor patio chair made from durable plastic. Stackable design for easy storage.",
-    "category": "Rocking Chair",
-    "image": "/image 147.png"
-  },
-  {
-    "id": 13,
-    "name": "Kids Study Chair",
-    "regularPrice": 60.00,
-    "offerPrice": 50.00,
-    "offerPercentage": 17,
-    "description": "Colorful and adjustable study chair for kids with a comfortable cushion and back support, designed for study desks.",
-    "category": "Rocking Chair",
-    "image": "/image 149.png"
-  },
-  {
-    "id": 1,
-    "name": "Ergonomic Office Chair",
-    "regularPrice": 150.00,
-    "offerPrice": 120.00,
-    "offerPercentage": 20,
-    "description": "This ergonomic office chair provides lumbar support and adjustable height. Ideal for long hours of work.",
-    "category": "Side Chair",
-    "image": "/image 146.png"
-  },
-  {
-    "id": 2,
+    "id": 34,
     "name": "Modern Lounge Chair",
     "regularPrice": 200.00,
     "offerPrice": 160.00,
@@ -410,7 +340,7 @@
     "image": "/image 147.png"
   },
   {
-    "id": 3,
+    "id": 35,
     "name": "Leather Executive Chair",
     "regularPrice": 300.00,
     "offerPrice": 240.00,
@@ -420,117 +350,7 @@
     "image": "/image.png"
   },
   {
-    "id": 4,
-    "name": "Mesh Back Task Chair",
-    "regularPrice": 100.00,
-    "offerPrice": 85.00,
-    "offerPercentage": 15,
-    "description": "Mesh back task chair with adjustable lumbar support and a breathable design for enhanced comfort during work.",
-    "category": "Rocking Chair",
-    "image": "/recline chair.png"
-  },
-  {
-    "id": 5,
-    "name": "Accent Armchair",
-    "regularPrice": 180.00,
-    "offerPrice": 144.00,
-    "offerPercentage": 20,
-    "description": "Stylish accent armchair with a sturdy wooden frame and comfortable fabric upholstery, perfect for any room decor.",
-    "category": "Rocking Chair",
-    "image": "/image 148.png"
-  },
-  {
-    "id": 6,
-    "name": "Recliner Chair",
-    "regularPrice": 350.00,
-    "offerPrice": 280.00,
-    "offerPercentage": 20,
-    "description": "Comfortable recliner chair with a manual lever, padded seat, and backrest for maximum relaxation at home.",
-    "category": "Lounge Chair",
-    "image": "/image 149.png"
-  },
-  {
-    "id": 7,
-    "name": "Dining Chair Set of 4",
-    "regularPrice": 250.00,
-    "offerPrice": 200.00,
-    "offerPercentage": 20,
-    "description": "Set of 4 modern dining chairs with upholstered seats and wooden legs. Durable and easy to clean.",
-    "category": "Rocking Chair",
-    "image": "/image.png"
-  },
-  {
-    "id": 8,
-    "name": "Swivel Bar Stool",
-    "regularPrice": 120.00,
-    "offerPrice": 100.00,
-    "offerPercentage": 17,
-    "description": "Adjustable height swivel bar stool with a footrest and cushioned seat. Great for kitchen counters or home bars.",
-    "category": "Side Chair",
-    "image": "/image 146.png"
-  },
-  {
-    "id": 9,
-    "name": "Outdoor Patio Chair",
-    "regularPrice": 90.00,
-    "offerPrice": 75.00,
-    "offerPercentage": 17,
-    "description": "Weather-resistant outdoor patio chair made from durable plastic. Stackable design for easy storage.",
-    "category": "Rocking Chair",
-    "image": "/image 147.png"
-  },
-  {
-    "id": 10,
-    "name": "Kids Study Chair",
-    "regularPrice": 60.00,
-    "offerPrice": 50.00,
-    "offerPercentage": 17,
-    "description": "Colorful and adjustable study chair for kids with a comfortable cushion and back support, designed for study desks.",
-    "category": "Rocking Chair",
-    "image": "/image 149.png"
-  },
-  {
-    "id": 11,
-    "name": "Swivel Bar Stool",
-    "regularPrice": 120.00,
-    "offerPrice": 100.00,
-    "offerPercentage": 17,
-    "description": "Adjustable height swivel bar stool with a footrest and cushioned seat. Great for kitchen counters or home bars.",
-    "category": "Side Chair",
-    "image": "/image 146.png"
-  },
-  {
-    "id": 12,
-    "name": "Outdoor Patio Chair",
-    "regularPrice": 90.00,
-    "offerPrice": 75.00,
-    "offerPercentage": 17,
-    "description": "Weather-resistant outdoor patio chair made from durable plastic. Stackable design for easy storage.",
-    "category": "Rocking Chair",
-    "image": "/image 147.png"
-  },
-  {
-    "id": 13,
-    "name": "Kids Study Chair",
-    "regularPrice": 60.00,
-    "offerPrice": 50.00,
-    "offerPercentage": 17,
-    "description": "Colorful and adjustable study chair for kids with a comfortable cushion and back support, designed for study desks.",
-    "category": "Rocking Chair",
-    "image": "/image 149.png"
-  },
-  {
-    "id": 1,
-    "name": "Ergonomic Office Chair",
-    "regularPrice": 150.00,
-    "offerPrice": 120.00,
-    "offerPercentage": 20,
-    "description": "This ergonomic office chair provides lumbar support and adjustable height. Ideal for long hours of work.",
-    "category": "Side Chair",
-    "image": "/image 146.png"
-  },
-  {
-    "id": 2,
+    "id": 36,
     "name": "Modern Lounge Chair",
     "regularPrice": 200.00,
     "offerPrice": 160.00,
@@ -540,7 +360,7 @@
     "image": "/image 147.png"
   },
   {
-    "id": 3,
+    "id": 37,
     "name": "Leather Executive Chair",
     "regularPrice": 300.00,
     "offerPrice": 240.00,
@@ -550,67 +370,7 @@
     "image": "/image.png"
   },
   {
-    "id": 4,
-    "name": "Mesh Back Task Chair",
-    "regularPrice": 100.00,
-    "offerPrice": 85.00,
-    "offerPercentage": 15,
-    "description": "Mesh back task chair with adjustable lumbar support and a breathable design for enhanced comfort during work.",
-    "category": "Rocking Chair",
-    "image": "/recline chair.png"
-  },
-  {
-    "id": 5,
-    "name": "Accent Armchair",
-    "regularPrice": 180.00,
-    "offerPrice": 144.00,
-    "offerPercentage": 20,
-    "description": "Stylish accent armchair with a sturdy wooden frame and comfortable fabric upholstery, perfect for any room decor.",
-    "category": "Rocking Chair",
-    "image": "/image 148.png"
-  },
-  {
-    "id": 6,
-    "name": "Recliner Chair",
-    "regularPrice": 350.00,
-    "offerPrice": 280.00,
-    "offerPercentage": 20,
-    "description": "Comfortable recliner chair with a manual lever, padded seat, and backrest for maximum relaxation at home.",
-    "category": "Lounge Chair",
-    "image": "/image 149.png"
-  },
-  {
-    "id": 7,
-    "name": "Dining Chair Set of 4",
-    "regularPrice": 250.00,
-    "offerPrice": 200.00,
-    "offerPercentage": 20,
-    "description": "Set of 4 modern dining chairs with upholstered seats and wooden legs. Durable and easy to clean.",
-    "category": "Rocking Chair",
-    "image": "/image.png"
-  },
-  {
-    "id": 8,
-    "name": "Swivel Bar Stool",
-    "regularPrice": 120.00,
-    "offerPrice": 100.00,
-    "offerPercentage": 17,
-    "description": "Adjustable height swivel bar stool with a footrest and cushioned seat. Great for kitchen counters or home bars.",
-    "category": "Side Chair",
-    "image": "/image 146.png"
-  },
-  {
-    "id": 9,
-    "name": "Outdoor Patio Chair",
-    "regularPrice": 90.00,
-    "offerPrice": 75.00,
-    "offerPercentage": 17,
-    "description": "Weather-resistant outdoor patio chair made from durable plastic. Stackable design for easy storage.",
-    "category": "Rocking Chair",
-    "image": "/image 147.png"
-  },
-  {
-    "id": 10,
+    "id": 38,
     "name": "Kids Study Chair",
     "regularPrice": 60.00,
     "offerPrice": 50.00,
@@ -620,17 +380,7 @@
     "image": "/image 149.png"
   },
   {
-    "id": 11,
-    "name": "Swivel Bar Stool",
-    "regularPrice": 120.00,
-    "offerPrice": 100.00,
-    "offerPercentage": 17,
-    "description": "Adjustable height swivel bar stool with a footrest and cushioned seat. Great for kitchen counters or home bars.",
-    "category": "Side Chair",
-    "image": "/image 146.png"
-  },
-  {
-    "id": 12,
+    "id": 39,
     "name": "Outdoor Patio Chair",
     "regularPrice": 90.00,
     "offerPrice": 75.00,
@@ -640,7 +390,7 @@
     "image": "/image 147.png"
   },
   {
-    "id": 13,
+    "id": 40,
     "name": "Kids Study Chair",
     "regularPrice": 60.00,
     "offerPrice": 50.00,
@@ -650,87 +400,7 @@
     "image": "/image 149.png"
   },
   {
-    "id": 1,
-    "name": "Ergonomic Office Chair",
-    "regularPrice": 150.00,
-    "offerPrice": 120.00,
-    "offerPercentage": 20,
-    "description": "This ergonomic office chair provides lumbar support and adjustable height. Ideal for long hours of work.",
-    "category": "Side Chair",
-    "image": "/image 146.png"
-  },
-  {
-    "id": 2,
-    "name": "Modern Lounge Chair",
-    "regularPrice": 200.00,
-    "offerPrice": 160.00,
-    "offerPercentage": 20,
-    "description": "A modern lounge chair with a sleek design, perfect for living rooms or offices. Comes with a soft cushion for extra comfort.",
-    "category": "Rocking Chair",
-    "image": "/image 147.png"
-  },
-  {
-    "id": 3,
-    "name": "Leather Executive Chair",
-    "regularPrice": 300.00,
-    "offerPrice": 240.00,
-    "offerPercentage": 20,
-    "description": "High-back leather executive chair with padded armrests and adjustable reclining. Suitable for office executives.",
-    "category": "Side Chair",
-    "image": "/image.png"
-  },
-  {
-    "id": 4,
-    "name": "Mesh Back Task Chair",
-    "regularPrice": 100.00,
-    "offerPrice": 85.00,
-    "offerPercentage": 15,
-    "description": "Mesh back task chair with adjustable lumbar support and a breathable design for enhanced comfort during work.",
-    "category": "Rocking Chair",
-    "image": "/recline chair.png"
-  },
-  {
-    "id": 5,
-    "name": "Accent Armchair",
-    "regularPrice": 180.00,
-    "offerPrice": 144.00,
-    "offerPercentage": 20,
-    "description": "Stylish accent armchair with a sturdy wooden frame and comfortable fabric upholstery, perfect for any room decor.",
-    "category": "Rocking Chair",
-    "image": "/image 148.png"
-  },
-  {
-    "id": 6,
-    "name": "Recliner Chair",
-    "regularPrice": 350.00,
-    "offerPrice": 280.00,
-    "offerPercentage": 20,
-    "description": "Comfortable recliner chair with a manual lever, padded seat, and backrest for maximum relaxation at home.",
-    "category": "Lounge Chair",
-    "image": "/image 149.png"
-  },
-  {
-    "id": 7,
-    "name": "Dining Chair Set of 4",
-    "regularPrice": 250.00,
-    "offerPrice": 200.00,
-    "offerPercentage": 20,
-    "description": "Set of 4 modern dining chairs with upholstered seats and wooden legs. Durable and easy to clean.",
-    "category": "Rocking Chair",
-    "image": "/image.png"
-  },
-  {
-    "id": 8,
-    "name": "Swivel Bar Stool",
-    "regularPrice": 120.00,
-    "offerPrice": 100.00,
-    "offerPercentage": 17,
-    "description": "Adjustable height swivel bar stool with a footrest and cushioned seat. Great for kitchen counters or home bars.",
-    "category": "Side Chair",
-    "image": "/image 146.png"
-  },
-  {
-    "id": 9,
+    "id": 41,
     "name": "Outdoor Patio Chair",
     "regularPrice": 90.00,
     "offerPrice": 75.00,
@@ -738,305 +408,5 @@
     "description": "Weather-resistant outdoor patio chair made from durable plastic. Stackable design for easy storage.",
     "category": "Rocking Chair",
     "image": "/image 147.png"
-  },
-  {
-    "id": 10,
-    "name": "Kids Study Chair",
-    "regularPrice": 60.00,
-    "offerPrice": 50.00,
-    "offerPercentage": 17,
-    "description": "Colorful and adjustable study chair for kids with a comfortable cushion and back support, designed for study desks.",
-    "category": "Rocking Chair",
-    "image": "/image 149.png"
-  },
-  {
-    "id": 11,
-    "name": "Swivel Bar Stool",
-    "regularPrice": 120.00,
-    "offerPrice": 100.00,
-    "offerPercentage": 17,
-    "description": "Adjustable height swivel bar stool with a footrest and cushioned seat. Great for kitchen counters or home bars.",
-    "category": "Side Chair",
-    "image": "/image 146.png"
-  },
-  {
-    "id": 12,
-    "name": "Outdoor Patio Chair",
-    "regularPrice": 90.00,
-    "offerPrice": 75.00,
-    "offerPercentage": 17,
-    "description": "Weather-resistant outdoor patio chair made from durable plastic. Stackable design for easy storage.",
-    "category": "Rocking Chair",
-    "image": "/image 147.png"
-  },
-  {
-    "id": 13,
-    "name": "Kids Study Chair",
-    "regularPrice": 60.00,
-    "offerPrice": 50.00,
-    "offerPercentage": 17,
-    "description": "Colorful and adjustable study chair for kids with a comfortable cushion and back support, designed for study desks.",
-    "category": "Rocking Chair",
-    "image": "/image 149.png"
-  },
-  {
-    "id": 1,
-    "name": "Ergonomic Office Chair",
-    "regularPrice": 150.00,
-    "offerPrice": 120.00,
-    "offerPercentage": 20,
-    "description": "This ergonomic office chair provides lumbar support and adjustable height. Ideal for long hours of work.",
-    "category": "Side Chair",
-    "image": "/image 146.png"
-  },
-  {
-    "id": 2,
-    "name": "Modern Lounge Chair",
-    "regularPrice": 200.00,
-    "offerPrice": 160.00,
-    "offerPercentage": 20,
-    "description": "A modern lounge chair with a sleek design, perfect for living rooms or offices. Comes with a soft cushion for extra comfort.",
-    "category": "Rocking Chair",
-    "image": "/image 147.png"
-  },
-  {
-    "id": 3,
-    "name": "Leather Executive Chair",
-    "regularPrice": 300.00,
-    "offerPrice": 240.00,
-    "offerPercentage": 20,
-    "description": "High-back leather executive chair with padded armrests and adjustable reclining. Suitable for office executives.",
-    "category": "Side Chair",
-    "image": "/image.png"
-  },
-  {
-    "id": 4,
-    "name": "Mesh Back Task Chair",
-    "regularPrice": 100.00,
-    "offerPrice": 85.00,
-    "offerPercentage": 15,
-    "description": "Mesh back task chair with adjustable lumbar support and a breathable design for enhanced comfort during work.",
-    "category": "Rocking Chair",
-    "image": "/recline chair.png"
-  },
-  {
-    "id": 5,
-    "name": "Accent Armchair",
-    "regularPrice": 180.00,
-    "offerPrice": 144.00,
-    "offerPercentage": 20,
-    "description": "Stylish accent armchair with a sturdy wooden frame and comfortable fabric upholstery, perfect for any room decor.",
-    "category": "Rocking Chair",
-    "image": "/image 148.png"
-  },
-  {
-    "id": 6,
-    "name": "Recliner Chair",
-    "regularPrice": 350.00,
-    "offerPrice": 280.00,
-    "offerPercentage": 20,
-    "description": "Comfortable recliner chair with a manual lever, padded seat, and backrest for maximum relaxation at home.",
-    "category": "Lounge Chair",
-    "image": "/image 149.png"
-  },
-  {
-    "id": 7,
-    "name": "Dining Chair Set of 4",
-    "regularPrice": 250.00,
-    "offerPrice": 200.00,
-    "offerPercentage": 20,
-    "description": "Set of 4 modern dining chairs with upholstered seats and wooden legs. Durable and easy to clean.",
-    "category": "Rocking Chair",
-    "image": "/image.png"
-  },
-  {
-    "id": 8,
-    "name": "Swivel Bar Stool",
-    "regularPrice": 120.00,
-    "offerPrice": 100.00,
-    "offerPercentage": 17,
-    "description": "Adjustable height swivel bar stool with a footrest and cushioned seat. Great for kitchen counters or home bars.",
-    "category": "Side Chair",
-    "image": "/image 146.png"
-  },
-  {
-    "id": 9,
-    "name": "Outdoor Patio Chair",
-    "regularPrice": 90.00,
-    "offerPrice": 75.00,
-    "offerPercentage": 17,
-    "description": "Weather-resistant outdoor patio chair made from durable plastic. Stackable design for easy storage.",
-    "category": "Rocking Chair",
-    "image": "/image 147.png"
-  },
-  {
-    "id": 10,
-    "name": "Kids Study Chair",
-    "regularPrice": 60.00,
-    "offerPrice": 50.00,
-    "offerPercentage": 17,
-    "description": "Colorful and adjustable study chair for kids with a comfortable cushion and back support, designed for study desks.",
-    "category": "Rocking Chair",
-    "image": "/image 149.png"
-  },
-  {
-    "id": 11,
-    "name": "Swivel Bar Stool",
-    "regularPrice": 120.00,
-    "offerPrice": 100.00,
-    "offerPercentage": 17,
-    "description": "Adjustable height swivel bar stool with a footrest and cushioned seat. Great for kitchen counters or home bars.",
-    "category": "Side Chair",
-    "image": "/image 146.png"
-  },
-  {
-    "id": 12,
-    "name": "Outdoor Patio Chair",
-    "regularPrice": 90.00,
-    "offerPrice": 75.00,
-    "offerPercentage": 17,
-    "description": "Weather-resistant outdoor patio chair made from durable plastic. Stackable design for easy storage.",
-    "category": "Rocking Chair",
-    "image": "/image 147.png"
-  },
-  {
-    "id": 13,
-    "name": "Kids Study Chair",
-    "regularPrice": 60.00,
-    "offerPrice": 50.00,
-    "offerPercentage": 17,
-    "description": "Colorful and adjustable study chair for kids with a comfortable cushion and back support, designed for study desks.",
-    "category": "Rocking Chair",
-    "image": "/image 149.png"
-  },
-  {
-    "id": 1,
-    "name": "Ergonomic Office Chair",
-    "regularPrice": 150.00,
-    "offerPrice": 120.00,
-    "offerPercentage": 20,
-    "description": "This ergonomic office chair provides lumbar support and adjustable height. Ideal for long hours of work.",
-    "category": "Side Chair",
-    "image": "/image 146.png"
-  },
-  {
-    "id": 2,
-    "name": "Modern Lounge Chair",
-    "regularPrice": 200.00,
-    "offerPrice": 160.00,
-    "offerPercentage": 20,
-    "description": "A modern lounge chair with a sleek design, perfect for living rooms or offices. Comes with a soft cushion for extra comfort.",
-    "category": "Rocking Chair",
-    "image": "/image 147.png"
-  },
-  {
-    "id": 3,
-    "name": "Leather Executive Chair",
-    "regularPrice": 300.00,
-    "offerPrice": 240.00,
-    "offerPercentage": 20,
-    "description": "High-back leather executive chair with padded armrests and adjustable reclining. Suitable for office executives.",
-    "category": "Side Chair",
-    "image": "/image.png"
-  },
-  {
-    "id": 4,
-    "name": "Mesh Back Task Chair",
-    "regularPrice": 100.00,
-    "offerPrice": 85.00,
-    "offerPercentage": 15,
-    "description": "Mesh back task chair with adjustable lumbar support and a breathable design for enhanced comfort during work.",
-    "category": "Rocking Chair",
-    "image": "/recline chair.png"
-  },
-  {
-    "id": 5,
-    "name": "Accent Armchair",
-    "regularPrice": 180.00,
-    "offerPrice": 144.00,
-    "offerPercentage": 20,
-    "description": "Stylish accent armchair with a sturdy wooden frame and comfortable fabric upholstery, perfect for any room decor.",
-    "category": "Rocking Chair",
-    "image": "/image 148.png"
-  },
-  {
-    "id": 6,
-    "name": "Recliner Chair",
-    "regularPrice": 350.00,
-    "offerPrice": 280.00,
-    "offerPercentage": 20,
-    "description": "Comfortable recliner chair with a manual lever, padded seat, and backrest for maximum relaxation at home.",
-    "category": "Lounge Chair",
-    "image": "/image 149.png"
-  },
-  {
-    "id": 7,
-    "name": "Dining Chair Set of 4",
-    "regularPrice": 250.00,
-    "offerPrice": 200.00,
-    "offerPercentage": 20,
-    "description": "Set of 4 modern dining chairs with upholstered seats and wooden legs. Durable and easy to clean.",
-    "category": "Rocking Chair",
-    "image": "/image.png"
-  },
-  {
-    "id": 8,
-    "name": "Swivel Bar Stool",
-    "regularPrice": 120.00,
-    "offerPrice": 100.00,
-    "offerPercentage": 17,
-    "description": "Adjustable height swivel bar stool with a footrest and cushioned seat. Great for kitchen counters or home bars.",
-    "category": "Side Chair",
-    "image": "/image 146.png"
-  },
-  {
-    "id": 9,
-    "name": "Outdoor Patio Chair",
-    "regularPrice": 90.00,
-    "offerPrice": 75.00,
-    "offerPercentage": 17,
-    "description": "Weather-resistant outdoor patio chair made from durable plastic. Stackable design for easy storage.",
-    "category": "Rocking Chair",
-    "image": "/image 147.png"
-  },
-  {
-    "id": 10,
-    "name": "Kids Study Chair",
-    "regularPrice": 60.00,
-    "offerPrice": 50.00,
-    "offerPercentage": 17,
-    "description": "Colorful and adjustable study chair for kids with a comfortable cushion and back support, designed for study desks.",
-    "category": "Rocking Chair",
-    "image": "/image 149.png"
-  },
-  {
-    "id": 11,
-    "name": "Swivel Bar Stool",
-    "regularPrice": 120.00,
-    "offerPrice": 100.00,
-    "offerPercentage": 17,
-    "description": "Adjustable height swivel bar stool with a footrest and cushioned seat. Great for kitchen counters or home bars.",
-    "category": "Side Chair",
-    "image": "/image 146.png"
-  },
-  {
-    "id": 12,
-    "name": "Outdoor Patio Chair",
-    "regularPrice": 90.00,
-    "offerPrice": 75.00,
-    "offerPercentage": 17,
-    "description": "Weather-resistant outdoor patio chair made from durable plastic. Stackable design for easy storage.",
-    "category": "Rocking Chair",
-    "image": "/image 147.png"
-  },
-  {
-    "id": 13,
-    "name": "Kids Study Chair",
-    "regularPrice": 60.00,
-    "offerPrice": 50.00,
-    "offerPercentage": 17,
-    "description": "Colorful and adjustable study chair for kids with a comfortable cushion and back support, designed for study desks.",
-    "category": "Rocking Chair",
-    "image": "/image 149.png"
   }
 ]
